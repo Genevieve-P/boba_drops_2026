@@ -1,8 +1,3 @@
-@import url(.shadows-into-light-regular {
-  font-family: "Shadows Into Light", cursive;
-  font-weight: 400;
-  font-style: normal;
-})
 
 body {
     background-color:yellow;
@@ -11,13 +6,13 @@ body {
 h1 {
     font-size:35px;
     color:black;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:'Shadows Into Light';
 }
 
 p{
     font-size: 15px;
     color:black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Shadows Into Light';
 }
 
 img {
