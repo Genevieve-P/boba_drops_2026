@@ -4,23 +4,14 @@ body {
     font-family: 'Agrave Pro', sans-serif;
 }
 
-.shadows-into-light-regular {
-  font-family: "Shadows Into Light", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
-
 h1 {
     font-size:35px;
     color:black;
-    font-family: "Shadows Into Light", cursive;
 }
 
 p{
     font-size: 15px;
     color:black;
-    font-family: "Shadows Into Light", cursive;
 }
 
 img {
