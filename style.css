@@ -1,0 +1,21 @@
+body {
+    background-color:yellow;
+}
+
+h1 {
+    font-size:35px;
+    color:black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-size: 15px;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+    border:2px solid black;
+    width: 25%;
+    box-shadow: 0 4px 8px black;
+}
