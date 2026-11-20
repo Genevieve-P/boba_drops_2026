@@ -1,3 +1,9 @@
+@import url(.shadows-into-light-regular {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 400;
+  font-style: normal;
+})
+
 body {
     background-color:yellow;
 }
